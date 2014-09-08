@@ -50,6 +50,7 @@ func init() {
 		[]byte("https://"),
 		[]byte("ftp://"),
 		[]byte("mailto:"),
+		[]byte("./"),
 	}
 }
 
